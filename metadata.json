@@ -1,0 +1,6 @@
+{
+  "name": "Arcade Game Studio",
+  "description": "A multi-genre web arcade with playable games including Space Defender, Cyber Runner, Dungeon Quest, and Physics Sandbox.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
